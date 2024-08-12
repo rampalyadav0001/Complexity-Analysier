@@ -1,0 +1,11 @@
+{
+    "name": "C++ Dev Environment",
+    "image": "mcr.microsoft.com/vscode/devcontainers/cpp:ubuntu-20.04",
+    "settings": {},
+    "extensions": [
+      "ms-vscode.cpptools",
+      "llvm-vs-code-extensions.vscode-clangd"
+    ],
+    "remoteUser": "vscode"
+  }
+  

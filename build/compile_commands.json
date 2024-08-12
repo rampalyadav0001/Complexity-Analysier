@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/Complexity-Analysier/build",
+  "command": "/usr/bin/c++   -I/usr/lib/llvm-10/include  -g   -std=gnu++14 -o CMakeFiles/ComplexityAnalyzer.dir/ComplexityAnalyzer.cpp.o -c /workspaces/Complexity-Analysier/ComplexityAnalyzer.cpp",
+  "file": "/workspaces/Complexity-Analysier/ComplexityAnalyzer.cpp"
+}
+]
